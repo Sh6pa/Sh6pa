@@ -22,6 +22,12 @@ During this project I worked on async save system, sound system, some obstacles,
 
 <hr/>
 
+### **Data analyst** <https://github.com/Sh6pa/IADataScience>
+EN : Data analysis on the famous californian housing dataset. Used Python (Scikit, Matplotlib, Pandas,...) to develop an IA capable of predicting the house pricing with 85% accuracy.
+FR : Data analyse du jeu de données sur les logement de californie. Utilisation de Python (Scikit, Matplotlib, Pandas,...) pour développer une IA capable de prédire le prix avec 85% de précision.
+
+<hr/>
+
 ### **Sprite Sorter** <https://github.com/Sh6pa/2DAssetSpriteSorter>
 I reproduced Odd Bug's Tails of Iron Light Tool.
 
